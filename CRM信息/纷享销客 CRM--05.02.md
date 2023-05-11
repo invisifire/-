@@ -1,4 +1,4 @@
- ## 智能分析BI平台 
+## 智能分析BI平台
 
 专业术语缩写汇总： [A—M | 术语词典 | 纷享销客 | 帮助中心 (fxiaoke.com)](https://help.fxiaoke.com/edab/cb83) 
 
