@@ -70,17 +70,19 @@ GBM是一种机器学习的优化框架，并未局限弱学习器的算法（�
 
 ## XGBoost
 
+ [XGBoost 详细讲解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/360060567) 
 
 
 
 
 
+## lightGBM
 
-## DeepGBM
+ [LightGBM 详细讲解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/366952043) 
 
+ [LightGBM参数设置，看这篇就够了 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/376485485) 
 
-
-
+## RuleFit
 
 
 
