@@ -86,3 +86,11 @@ GBM是一种机器学习的优化框架，并未局限弱学习器的算法（�
 
 
 
+
+
+
+
+
+
+ [PSS3E10 3rd place solution GAM & GBM | Kaggle](https://www.kaggle.com/code/adaubas/pss3e10-3rd-place-solution-gam-gbm) 
+
